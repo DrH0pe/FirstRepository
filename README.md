@@ -1,2 +1,3 @@
 # FirstRepository
 FirstRepository
+- ilk degisiklik.
